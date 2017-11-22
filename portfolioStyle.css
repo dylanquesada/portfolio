@@ -1,0 +1,59 @@
+/*
+#393E41 Black Olive
+#D3D0CB Light Gray 
+#E7E5DF Platinum - white-ish
+#44BBA4 Verdigris - light green
+#E7BB41 Meat Brown - yellow
+
+*/
+
+body{
+	/*background-color: #393E41;*/
+ 	line-height: 1.1;
+	font-color: #393E41;
+	overflow-x: hidden;
+	
+}
+
+h5 {
+	size: 48;
+}
+.navbar-default {
+    background-color: #393E41;
+    color: #393E41;
+}
+.index{
+	
+	background-image: url("landscape.jpg");
+	background-size: cover;
+	background-color: #393E41;
+	background-position: absolute;
+
+}
+.projects{
+	background-color: #E7E5DF;
+}
+.story{
+	background-color: #E7E5DF;
+}
+.contact{
+	background-color: #E7BB41;
+}
+.contactA{
+	text-align: right;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #393E41;
+    color: #D3D0CB;
+    text-align: center;
+    border-top-width: 100px;
+    border-color: #E7BB41;
+}
+.wrapper{
+	padding: 0 0 70px;
+}
+
